@@ -14,6 +14,8 @@ document
       "KUDA STANDING",
       "TUYUL BIRU",
       "CUMI MULLET",
+      "BULU HIDUNG",
+      "KALENG KONG GUAN",
     ];
     const randomKhodam = khodam[Math.floor(Math.random() * khodam.length)];
 
