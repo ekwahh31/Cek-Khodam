@@ -19,7 +19,8 @@ document
       "KUCING BIRAHI",
       "KULKAS DUA PINTU",
       "PEDAL SEPEDA",
-      
+      "TUTUP TOPLES",
+      "BOTOL YAKULT",
     ];
     const randomKhodam = khodam[Math.floor(Math.random() * khodam.length)];
 
