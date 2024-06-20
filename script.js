@@ -26,6 +26,4 @@ document
 
     const hasilDiv = document.getElementById("hasil");
     hasilDiv.textContent = `${nama} , khodam kamu adalah ${randomKhodam}`;
-
-    document.getElementById("inputnama").value = '';
   });
