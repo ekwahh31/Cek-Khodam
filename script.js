@@ -16,6 +16,10 @@ document
       "CUMI MULLET",
       "BULU HIDUNG",
       "KALENG KONG GUAN",
+      "KUCING BIRAHI",
+      "KULKAS DUA PINTU",
+      "PEDAL SEPEDA",
+      
     ];
     const randomKhodam = khodam[Math.floor(Math.random() * khodam.length)];
 
