@@ -21,6 +21,7 @@ document
       "PEDAL SEPEDA",
       "TUTUP TOPLES",
       "BOTOL YAKULT",
+      "KUCING DIARE",
     ];
     const randomKhodam = khodam[Math.floor(Math.random() * khodam.length)];
 
