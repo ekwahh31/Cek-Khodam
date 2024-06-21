@@ -27,6 +27,4 @@ document
 
     const hasilDiv = document.getElementById("hasil");
     hasilDiv.textContent = `${nama} , khodam kamu adalah ${randomKhodam}`;
-
-    document.write("Jangan Lupa Follow @ekaabintang_");
   });
